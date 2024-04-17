@@ -1,4 +1,4 @@
-# Spatial-data--course
+# spatial-data-course
 
 
 
