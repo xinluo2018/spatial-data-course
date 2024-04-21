@@ -1,6 +1,7 @@
 __pycache__/
 .vscode
-data/*
+data/data-base/*
+data/data-section-3/*
 **/.DS_Store
 课程框架.docx
 
